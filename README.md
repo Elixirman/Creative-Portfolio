@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist/AI Advocate
 
 ### Education
 B.sc(Physics), M.sc(Renewable Energy)
