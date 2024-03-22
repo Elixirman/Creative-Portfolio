@@ -3,7 +3,7 @@
 Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
   
 ## Education
-B.sc(Physics), M.sc(Renewable Energy)
+B.sc(Physics), M.sc(Renewable Energy) 
 
 
 ## Work Experience
