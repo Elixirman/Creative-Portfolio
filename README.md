@@ -44,9 +44,13 @@ Oil Exploration Deposit & Analysis Visualization
 
 ## Professional Membership
 •	IEEE: Institute of Electrical and Electronics Engineers
+
 •	EI: Energy Institute
+
 •	AEE: Association of Energy Engineers
+
 •	SSSC: Scottish Social Services Council
+
 •	PVG: The Protecting Vulnerable Group, Scotland
 
 
