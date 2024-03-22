@@ -1,6 +1,6 @@
 # Data Scientist/AI Advocate
-Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
-  
+Technical Skills: Python, Google Cloud, Bigquery, SQL, MLOps
+
 ## Education
 Generative AI 
 : Google Cloud Skill Boost - March 2024
@@ -44,13 +44,9 @@ Oil Exploration Deposit & Analysis Visualization
 
 ## Professional Membership
 •	IEEE: Institute of Electrical and Electronics Engineers
-
 •	EI: Energy Institute
-
 •	AEE: Association of Energy Engineers
-
 •	SSSC: Scottish Social Services Council
-
 •	PVG: The Protecting Vulnerable Group, Scotland
 
 
