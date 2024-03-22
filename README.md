@@ -4,13 +4,20 @@ Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
   
 ## Education
 Generative AI : Google Cloud Skill Boost - March 2024
+
 Interactive Dashboard Design : Skill Nation - Feb 2023  
+
 Data Science Virtual Experience Programme : Forage (British Airways) - March 2023 
 
+Data Scientist Proficiency with Python Programming : Edureka, India - Jan 2023
 
- Edureka, India   
-Python Machine Learning Certification Training                                                                            Jan 2023  
+M.sc Renewable Energy : Edinburgh Napier University, Scotland UK - July 2019
 
+Pgd. Network Security & Telecoms Management : Mahatma Gandhi University, India - Aug 2016
+
+Advance Certificate in Information Technology : NIIT, Abuja - Jun 2012
+
+B.sc Physics : Lagos State University, Lagos - Sept 2008
 
 
 
@@ -27,5 +34,28 @@ Island Integration Technology Limited - Lagos | Nigeria
 Oil Exploration Deposit & Analysis Visualization 
 
 
-## 
+## Professional Membership
+•	IEEE: Institute of Electrical and Electronics Engineers   
+•	EI: Energy Institute   
+•	AEE: Association of Energy Engineers
+•	SSSC: Scottish Social Services Council
+•	PVG: The Protecting Vulnerable Group, Scotland   
+
+
+
+
+
+
+PROFESSIONAL MEMBERSHIP
+•	SSSC: Scottish Social Services Council   
+•	PVG: The Protecting Vulnerable Group, Scotland   
+•	IEEE: Institute of Electrical and Electronics Engineers   
+•	EI: Energy Institute   
+•	AEE: Association of Energy Engineers   
+
+
+
+
+
+
 
