@@ -1,9 +1,17 @@
 # Data Scientist/AI Advocate
 
-Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
+Technical Skills: Python, Google Colud, Bigquery, Sql, MLops 
   
 ## Education
-B.sc(Physics), M.sc(Renewable Energy) 
+Generative AI : Google Cloud Skill Boost - March 2024
+Interactive Dashboard Design : Skill Nation - Feb 2023  
+Data Science Virtual Experience Programme : Forage (British Airways) - March 2023 
+
+
+ Edureka, India   
+Python Machine Learning Certification Training                                                                            Jan 2023  
+
+
 
 
 ## Work Experience
@@ -17,4 +25,7 @@ Island Integration Technology Limited - Lagos | Nigeria
 
 ## Projects
 Oil Exploration Deposit & Analysis Visualization 
+
+
+## 
 
