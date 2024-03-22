@@ -1,5 +1,5 @@
 # Data Scientist/AI Advocate
-##Technical Skills: Python, Google Colud, Bigquery, Sql, MLops 
+: Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
   
 ## Education
 Generative AI 
@@ -50,14 +50,6 @@ Oil Exploration Deposit & Analysis Visualization
 
 
 
-
-
-PROFESSIONAL MEMBERSHIP
-•	SSSC: Scottish Social Services Council   
-•	PVG: The Protecting Vulnerable Group, Scotland   
-•	IEEE: Institute of Electrical and Electronics Engineers   
-•	EI: Energy Institute   
-•	AEE: Association of Energy Engineers   
 
 
 
