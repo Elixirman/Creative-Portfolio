@@ -1,11 +1,13 @@
 # Data Scientist/AI Advocate
 
+Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
+  
 ## Education
 B.sc(Physics), M.sc(Renewable Energy)
 
 
 ## Work Experience
-Data Scientist (11/2022 – Current)
+Data Scientist (11/2022 – Current) 
 Island Integration Technology Limited - Lagos | Nigeria
  
 •	Collaborated on custom data analytics solutions to improve drilling operations in the Oil & Gas industry, leading to a 20% increase in efficiency as part of a freelance team.
