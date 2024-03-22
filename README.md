@@ -1,11 +1,12 @@
 # Data Scientist/AI Advocate
-
-###Technical Skills: Python, Google Colud, Bigquery, Sql, MLops 
+##Technical Skills: Python, Google Colud, Bigquery, Sql, MLops 
   
 ## Education
-Generative AI : Google Cloud Skill Boost - March 2024
+Generative AI 
+: Google Cloud Skill Boost - March 2024
 
-Interactive Dashboard Design : Skill Nation - Feb 2023  
+Interactive Dashboard Design
+: Skill Nation - Feb 2023  
 
 Data Science Virtual Experience Programme 
 : Forage (British Airways) - March 2023 
