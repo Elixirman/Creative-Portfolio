@@ -1,5 +1,5 @@
 # Data Scientist/AI Advocate
-: Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
+Technical Skills: Python, Google Colud, Bigquery, Sql, MLops
   
 ## Education
 Generative AI 
@@ -32,7 +32,9 @@ Data Scientist (11/2022 – Current)
 Island Integration Technology Limited - Lagos | Nigeria
  
 •	Collaborated on custom data analytics solutions to improve drilling operations in the Oil & Gas industry, leading to a 20% increase in efficiency as part of a freelance team.
+
 •	Analyzed data comprehensively and worked with team members to enhance patient outcomes and resource allocation in the Healthcare sector, resulting in a 15% cost reduction.
+
 •	Collaborated with freelancers on machine learning projects to enhance crop yield predictions in Agriculture, increasing harvest efficiency by 15%. 
 
 
@@ -41,11 +43,12 @@ Oil Exploration Deposit & Analysis Visualization
 
 
 ## Professional Membership
-•	IEEE: Institute of Electrical and Electronics Engineers   
-•	EI: Energy Institute   
+•	IEEE: Institute of Electrical and Electronics Engineers
+•	EI: Energy Institute
 •	AEE: Association of Energy Engineers
 •	SSSC: Scottish Social Services Council
-•	PVG: The Protecting Vulnerable Group, Scotland   
+•	PVG: The Protecting Vulnerable Group, Scotland
+
 
 
 
